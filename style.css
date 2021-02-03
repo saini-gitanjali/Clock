@@ -1,0 +1,21 @@
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+#main {
+    box-shadow: 5px 5px 5px 1px;
+    
+    height: 350px;
+}
+
+#browse{
+    background-color: #a97aa9;
+    color: black;
+    border-color: #a06d9d;
+}
+
+#nav {
+    font-weight: bold;
+    box-shadow: 2px 2px 5px;
+}
